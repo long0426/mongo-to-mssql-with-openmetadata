@@ -1,0 +1,9 @@
+.claude
+docker-volume
+ingestion-volume-dag-airflow
+ingestion-volume-dags
+mongo-data
+mysql_data
+nifi-data
+registry-data
+mssql-data
